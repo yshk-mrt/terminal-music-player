@@ -24,7 +24,7 @@ A visually appealing music player for the macOS terminal with song selection, pl
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/terminal-music-player.git
+   git clone https://github.com/yshk-mrt/terminal-music-player.git
    cd terminal-music-player
    ```
 
