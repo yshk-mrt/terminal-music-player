@@ -2,6 +2,7 @@
 
 A visually appealing music player for the macOS terminal with song selection, playback controls, and audio visualization.
 
+<!-- The GIF demo is available in the repository -->
 ![Terminal Music Player Demo](terminal-music-player.gif)
 
 ## Features
@@ -101,7 +102,7 @@ MIT License
 
 ## About This Project
 
-このプロジェクトはClineの能力を確かめるために作成されました。一切のコーディングなしで、10分程度で完成しました。モデルはclaude-3-7-sonnet-20250219を使用し、コストはGithubのコミットまで含めて$1程度でした。初期のプロンプトは下記です。
+This project was created to test the capabilities of Cline. It was completed in about 10 minutes without any manual coding. The model used was claude-3-7-sonnet-20250219, and the cost was approximately $1 including GitHub commits. The initial prompt was:
 Please create a Music Player that works in the Mac terminal. Make it as visually appealing as possible. It should include song selection, play, stop, next, previous, title display, and visualizer display. The budget is within $3. Please plan with plenty of time including for testing.
 
 Happy coding & Enjoy music!
