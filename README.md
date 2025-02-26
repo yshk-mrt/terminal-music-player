@@ -102,7 +102,7 @@ MIT License
 
 ## About This Project
 
-This project was created to test the capabilities of Cline. It was completed in about 10 minutes without any manual coding. The model used was claude-3-7-sonnet-20250219, and the cost was approximately $1 including GitHub commits. The initial prompt was:
+This project was created to test the capabilities of Cline. It was completed in about 10 minutes without any manual coding. The model used was claude-3-7-sonnet-20250219, and the cost was approximately $2 including GitHub commits. The initial prompt was:
 Please create a Music Player that works in the Mac terminal. Make it as visually appealing as possible. It should include song selection, play, stop, next, previous, title display, and visualizer display. The budget is within $3. Please plan with plenty of time including for testing.
 
 Happy coding & Enjoy music!

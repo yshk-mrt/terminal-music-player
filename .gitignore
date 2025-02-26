@@ -111,5 +111,3 @@ venv.bak/
 *.code-workspace
 .history/
 
-# Project specific
-sample_music/*.mp3
