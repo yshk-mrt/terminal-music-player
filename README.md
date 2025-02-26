@@ -2,6 +2,8 @@
 
 A visually appealing music player for the macOS terminal with song selection, playback controls, and audio visualization.
 
+![Terminal Music Player Demo](terminal-music-player.gif)
+
 ## Features
 
 - **Music Library Management**: Scans and organizes your music collection
@@ -96,3 +98,10 @@ MIT License
 - [pygame](https://www.pygame.org/) for audio playback
 - [rich](https://github.com/Textualize/rich) for terminal UI
 - [mutagen](https://mutagen.readthedocs.io/) for audio metadata
+
+## About This Project
+
+このプロジェクトはClineの能力を確かめるために作成されました。一切のコーディングなしで、10分程度で完成しました。モデルはclaude-3-7-sonnet-20250219を使用し、コストはGithubのコミットまで含めて$1程度でした。初期のプロンプトは下記です。
+Please create a Music Player that works in the Mac terminal. Make it as visually appealing as possible. It should include song selection, play, stop, next, previous, title display, and visualizer display. The budget is within $3. Please plan with plenty of time including for testing.
+
+Happy coding & Enjoy music!
